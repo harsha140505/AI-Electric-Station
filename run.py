@@ -13,10 +13,10 @@ from langchain_core.prompts import PromptTemplate
 
 # Database credentials
 dc = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': 'Charan0317',
-    'database': 'charge'
+    'host': '',
+    'user': '',
+    'password': '',
+    'database': ''
 }
 
 openai_api_key = ''
